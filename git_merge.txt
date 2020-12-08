@@ -1,1 +1,3 @@
 More Somewhere in branch feature-1 
+
+Add line 1 in branch feature-1
