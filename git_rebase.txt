@@ -1,6 +1,3 @@
 Text in Master
-<<<<<<< HEAD
 line2
-=======
 Text in feature-2
->>>>>>> 505bea3 (add line in git_rebase)
