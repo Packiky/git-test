@@ -1,7 +1,4 @@
 Text in Master
-<<<<<<< HEAD
 line2
 Text in feature-2
-=======
-Text in feature-2
->>>>>>> 505bea31d249f46a2023af9cee86dc6aa972c2d5
+line4 in feature-2
